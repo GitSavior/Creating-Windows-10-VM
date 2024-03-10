@@ -49,7 +49,7 @@ Show how to download a Windows 10 ISO and install a windows 10 VM with that ISO.
 
 ### Step 2: Setting up the Windows 10 virtual machine
 
-#### Open Virtual box and select "New option"
+#### Open Virtual box and select "New"
 
 ![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/e0376680-52ad-4ea3-b249-c7429e945356)
 
@@ -57,15 +57,15 @@ Show how to download a Windows 10 ISO and install a windows 10 VM with that ISO.
 
 ![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/e034fb77-2d09-48df-866f-aa59c35617dc)
 
-#### It is important to check the box "Guest Additions" to have the copy and paste capability between the Host(Your Computer) and Guest(VM). Change username, password, additional options to preference. Click "Next"
+#### To enable copy and paste between the Host (your computer) and Guest (VM), check the box labeled "Guest Additions". Change your username, password, and any other preferences. Click "Next"
 
 ![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/26f99d47-c4c9-4943-9a2b-0c2b533c4c3d)
 
-#### Select how much preferred hardware to allocate for the VM. Then click "Next"
+#### Choose how much preferred hardware to allocate for the VM. Then click "Next"
 
 ![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/f4845110-aa94-42e5-9356-f280ca88d618)
 
-#### Select how much hard disk space to allocate for the VM. Then click "Next"
+#### Choose how much hard disk space to reserve for the VM. Then, click "Next".
 
 ![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/e1e9f983-0c1a-4eca-b7fb-9504853d3498)
 
@@ -73,10 +73,13 @@ Show how to download a Windows 10 ISO and install a windows 10 VM with that ISO.
 
 ![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/6f34b456-2e7d-4650-987d-08bdbee26b16)
 
-#### The Virtual machine will open and the setup process will begin.
+#### The virtual computer will launch, and the setup will begin.
 
 ![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/9e3622cf-deef-4611-a12c-4f5450a7e787)
 
+#### The setup should complete without any more interaction. 
+
+![image](https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/df484274-539d-4b38-9df6-50518bb42377)
 
 
 
