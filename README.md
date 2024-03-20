@@ -4,7 +4,7 @@ Show how to download a Windows 10 ISO and install a windows 10 VM with that ISO.
 
 ## Steps
 
-### Step 1: Downloading the Create Windows 10 installion media
+### Step 1: Download the Create Windows 10 installation media
 
 https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/dc48b54d-fc71-4375-ac8d-8037a0cd6b38
 
