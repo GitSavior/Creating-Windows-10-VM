@@ -16,7 +16,7 @@ https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/bd9ea948-ce
 
 https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/7ac5b235-279d-4a08-8e05-97911730521e
 
-### Step 4: Autocomplete installatoin
+### Step 4: Autocomplete installation
 
 https://github.com/GitSavior/Creating-Windows-10-VM/assets/162067776/e0a4fbec-993b-44e8-b72f-c76ddcbfd6da
 
